@@ -1,5 +1,4 @@
 # 🏛️ Offline Intelligent Sinhala Answer Scorer
-## 40_CS4032 NLP — Individual Assignment 02
 ### Scope: Ancient Sri Lanka (Anuradhapura Period)
 
 ---
